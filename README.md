@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Shen Nan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongsn&show_icons=true&&count_private=truetheme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongsn)](https://github.com/wongsn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongsn&layout=compact)](https://github.com/wongsn/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wongsn)](https://github.com/wongsn/github-readme-stats)
+
 
