@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**wongsn/wongsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,10 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Shen Nan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongsn&show_icons=true&&count_private=truetheme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongsn&layout=compact)](https://github.com/wongsn/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wongsn)](https://github.com/wongsn/github-readme-stats)
+
 
 
