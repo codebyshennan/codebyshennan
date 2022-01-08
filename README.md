@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Shen Nan</h1>
 <h3 align="center">Software Engineer | Singapore</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wongsn&label=Profile%20views&color=0e75b6&style=flat" alt="wongsn" /> </p>
-
 <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=wongsn&label=Profile%20views&color=0e75b6&style=flat" alt="wongsn" /> 
   <a href="https://twitter.com/wongsn" target="blank">
     <img src="https://img.shields.io/twitter/follow/wongsn?logo=twitter&style=for-the-badge" alt="wongsn" />
   </a> 
@@ -142,8 +141,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongsn&show_icons=true&locale=en&layout=compact" alt="wongsn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wongsn&show_icons=true&locale=en" alt="wongsn" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wongsn&show_icons=true&locale=en" alt="wongsn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongsn&" alt="wongsn" /></p>
