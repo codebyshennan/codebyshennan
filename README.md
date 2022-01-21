@@ -137,8 +137,8 @@
 </p>
 
 <p>
-  <img style="width:200px;height:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongsn&show_icons=true&locale=en&layout=compact" alt="wongsn" />
-  <img style="width:200px;height:50px" src="https://github-readme-stats.vercel.app/api?username=wongsn&show_icons=true&locale=en" alt="wongsn" />
+  <img style="width:500px;height:150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongsn&show_icons=true&locale=en&layout=compact" alt="wongsn" />
+  <img style="width:500px;height:150px" src="https://github-readme-stats.vercel.app/api?username=wongsn&show_icons=true&locale=en" alt="wongsn" />
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongsn&" alt="wongsn" /></p> -->
