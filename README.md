@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shen Nan</h1>
-<h3 align="center">Software Engineer | Singapore</h3>
+<h3 align="center">Sr.Software Engineer @ Circles.life | Singapore</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=wongsn&label=Profile%20views&color=0e75b6&style=flat" alt="wongsn" /> 
@@ -18,8 +18,8 @@
   <a href="https://twitter.com/wongsn" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wongsn" height="30" width="20" />
   </a>
-  <a href="https://linkedin.com/in/snwong" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snwong" height="30" width="20" />
+  <a href="https://linkedin.com/in/wongshennan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wongshennan" height="30" width="20" />
   </a>
   <a href="https://kaggle.com/shennanwong" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shennanwong" height="30" width="20" />
@@ -30,8 +30,8 @@
 </p>
 
 <p>
-  <img style="width:500px;height:150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wongsn&show_icons=true&locale=en&layout=compact" alt="wongsn" />
-  <img style="width:500px;height:150px" src="https://github-readme-stats.vercel.app/api?username=wongsn&show_icons=true&locale=en" alt="wongsn" />
+  <img style="width:500px;height:150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyshennan&show_icons=true&locale=en&layout=compact" alt="codebyshennan" />
+  <img style="width:500px;height:150px" src="https://github-readme-stats.vercel.app/api?username=codebyshennan&show_icons=true&locale=en" alt="codebyshennan" />
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wongsn&" alt="wongsn" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyshennan&" alt="codebyshennan" /></p> -->
