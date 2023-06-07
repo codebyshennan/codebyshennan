@@ -10,7 +10,7 @@
   <img src="https://github.com/codebyshennan/codebyshennan/grid-snake.svg" alt="snake" /></a>
 </div>
 
-[![@codebyshennan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codebyshennan&theme=tokyonight)](https://git.io/praveenscience)
+[![@codebyshennan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyshennan)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | ![@codebyshennan's github stats](https://github-readme-stats.vercel.app/api?username=codebyshennan&show_icons=true&theme=tokyonight) | ![@codebyshennan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebyshennan&theme=tokyonight) |
 | --- | --- |
