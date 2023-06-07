@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://codebyshennan.github.io/codebyshennan/">
-  <img src="https://github.com/codebyshennan/codebyshennan/grid-snake.svg" alt="snake" /></a>
+  <img src="https://github.com/codebyshennan/codebyshennan/blob/main/grid-snake.svg" alt="snake" /></a>
 </div>
 
 [![@codebyshennan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyshennan)](https://github.com/ashutosh00710/github-readme-activity-graph)
