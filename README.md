@@ -12,13 +12,13 @@
 
 ---
 
-### 🧭 About
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="25" /> &nbsp;About
 
-Building data infrastructure and internal tooling as the sole engineer at **Iterative VC**, a Singapore-HQ'd early-stage fund investing across Southeast Asia and South Asia. Running **Fracxional** in parallel — teaching AI and data courses across universities and accelerators. Previously Co-founder/CTO at ZOLO (Antler), Sr. DevSecOps at Partior, Sr. SWE at Circles.Life.
+Building data infrastructure and internal tooling as the sole engineer at **Iterative VC**, a Singapore-HQ'd early-stage fund investing across Southeast Asia and South Asia. Running **Fracxional** in parallel — teaching AI and data courses across NTU PaCE, SIT, SMU, and others. Previously Co-founder/CTO at ZOLO (Antler), Sr. DevSecOps at Partior, Sr. SWE at Circles.Life.
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> &nbsp;Tech Stack
 
 <p align="center">
 
@@ -30,13 +30,22 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 ![SQL](https://img.shields.io/badge/SQL-1a1b27?style=flat-square&logo=postgresql&logoColor=70A5FD)
 ![Bash](https://img.shields.io/badge/Bash-1a1b27?style=flat-square&logo=gnubash&logoColor=70A5FD)
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=70A5FD)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=70A5FD)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1b27?style=flat-square&logo=tailwindcss&logoColor=70A5FD)
+
 **Infrastructure & Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=70A5FD)
 ![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=70A5FD)
 ![Coolify](https://img.shields.io/badge/Coolify-1a1b27?style=flat-square&logo=cloud&logoColor=70A5FD)
 ![Airbyte](https://img.shields.io/badge/Airbyte-1a1b27?style=flat-square&logo=airbyte&logoColor=70A5FD)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=70A5FD)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1b27?style=flat-square&logo=githubactions&logoColor=70A5FD)
+![AWS](https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=70A5FD)
+![Terraform](https://img.shields.io/badge/Terraform-1a1b27?style=flat-square&logo=terraform&logoColor=70A5FD)
 
 **Automation & Platforms**
 
@@ -44,6 +53,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 ![Notion](https://img.shields.io/badge/Notion-1a1b27?style=flat-square&logo=notion&logoColor=70A5FD)
 ![n8n](https://img.shields.io/badge/n8n-1a1b27?style=flat-square&logo=n8n&logoColor=70A5FD)
 ![Pipedream](https://img.shields.io/badge/Pipedream-1a1b27?style=flat-square&logo=pipedream&logoColor=70A5FD)
+![Slack](https://img.shields.io/badge/Slack-1a1b27?style=flat-square&logo=slack&logoColor=70A5FD)
 
 **AI & APIs**
 
@@ -51,12 +61,13 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 ![Anthropic](https://img.shields.io/badge/Anthropic-1a1b27?style=flat-square&logo=anthropic&logoColor=70A5FD)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1a1b27?style=flat-square&logo=elevenlabs&logoColor=70A5FD)
 ![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=flat-square&logo=langchain&logoColor=70A5FD)
+![Vapi](https://img.shields.io/badge/Vapi-1a1b27?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=70A5FD)
 
 </p>
 
 ---
 
-### 🏆 Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="25" /> &nbsp;Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=codebyshennan&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
@@ -64,7 +75,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> &nbsp;GitHub Stats
 
 <div align="center">
   <a href="https://codebyshennan.github.io/codebyshennan/">
@@ -84,7 +95,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 ---
 
-### ⏱️ Weekly Development Breakdown
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" width="25" /> &nbsp;Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 <!-- WakaTime stats will auto-populate here once configured -->
@@ -93,7 +104,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 ---
 
-### ✍️ Latest Blog Posts
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> &nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Blog posts will auto-populate here once configured -->
