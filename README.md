@@ -59,7 +59,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebyshennan&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=codebyshennan&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
 </p>
 
 ---
