@@ -67,10 +67,10 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 ---
 
-### Trophies
+### Profile Snapshot
 
 <p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=codebyshennan&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
+  <img src="https://ghstats.dev/api/card?username=codebyshennan&theme=dark" alt="profile snapshot" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 <div align="center">
   <a href="https://codebyshennan.github.io/codebyshennan/">
-    <img src="https://github.com/codebyshennan/codebyshennan/blob/main/grid-snake.svg" alt="snake" />
+    <img src="./grid-snake.svg" alt="snake" />
   </a>
 </div>
 
