@@ -12,13 +12,13 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="25" /> &nbsp;About
+### About
 
 Building data infrastructure and internal tooling as the sole engineer at **Iterative VC**, a Singapore-HQ'd early-stage fund investing across Southeast Asia and South Asia. Running **Fracxional** in parallel — teaching AI and data courses across NTU PaCE, SIT, SMU, and others. Previously Co-founder/CTO at ZOLO (Antler), Sr. DevSecOps at Partior, Sr. SWE at Circles.Life.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> &nbsp;Tech Stack
+### Tech Stack
 
 <p align="center">
 
@@ -61,13 +61,13 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 ![Anthropic](https://img.shields.io/badge/Anthropic-1a1b27?style=flat-square&logo=anthropic&logoColor=70A5FD)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1a1b27?style=flat-square&logo=elevenlabs&logoColor=70A5FD)
 ![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=flat-square&logo=langchain&logoColor=70A5FD)
-![Vapi](https://img.shields.io/badge/Vapi-1a1b27?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=70A5FD)
+![Vapi](https://img.shields.io/badge/Vapi-1a1b27?style=flat-square&logoColor=70A5FD)
 
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="25" /> &nbsp;Trophies
+### Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=codebyshennan&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
@@ -75,7 +75,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> &nbsp;GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <a href="https://codebyshennan.github.io/codebyshennan/">
@@ -95,7 +95,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" width="25" /> &nbsp;Weekly Development Breakdown
+### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 <!-- WakaTime stats will auto-populate here once configured -->
@@ -104,7 +104,7 @@ Building data infrastructure and internal tooling as the sole engineer at **Iter
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25" /> &nbsp;Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Blog posts will auto-populate here once configured -->
