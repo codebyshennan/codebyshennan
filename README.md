@@ -1,7 +1,7 @@
 <h1 align="center">Shen Nan, Wong</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Data+%26+Automations+Engineer+%40+Iterative+VC;Founder+%40+Fracxional;Builder-Investor+%7C+Based+in+Southeast+Asia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Head+of+Engineering+%40+Iterative+VC;Founder+%40+Fracxional+%2F+innxvate+%2F+nxrratives;Building+notionplus+%2F+firstyearin+%2F+whatsinmy;Builder-Investor+%7C+Based+in+Southeast+Asia" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,21 @@
 
 ### About
 
-Building data infrastructure and internal tooling as the sole engineer at **Iterative VC**, a Singapore-HQ'd early-stage fund investing across Southeast Asia and South Asia. Running **Fracxional** in parallel — teaching AI and data courses across NTU PaCE, SIT, SMU, and others. Previously Co-founder/CTO at ZOLO (Antler), Sr. DevSecOps at Partior, Sr. SWE at Circles.Life.
+Building data infrastructure and internal tooling as the sole engineer at **Iterative VC**, a Singapore-HQ'd early-stage fund investing across Southeast Asia and South Asia.
+
+Running a small portfolio in parallel:
+
+- **[innxvate](https://innxvate.org)** — digital transformation from operating model to production system.
+- **[Fracxional](https://fracxional.com)** — fractional CTO/CPO work for early-stage startups and VC portfolios.
+- **[nxrratives](https://nxrratives.com)** — career-design coaching and facilitated workshops.
+
+Launching products:
+
+- **[notionplus](https://notionplus.xyz)** — Notion-native apps, widgets, workers, and skill packs.
+- **[firstyearin](https://firstyearin.xyz)** — honest stories from the first year of hard transitions.
+- **[whatsinmy](https://whatsinmy.xyz)** — one dashboard for affiliate links, commissions, and creator revenue.
+
+Previously Co-founder/CTO at ZOLO (Antler), Sr. DevSecOps at Partior, Sr. SWE at Circles.Life.
 
 ---
 
